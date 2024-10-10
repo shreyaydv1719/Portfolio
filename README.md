@@ -4,7 +4,7 @@ This portfolio website is built using HTML5, CSS3, JavaScript, and jQuery, showc
 
 ## 🌐 Website
 
-Explore my portfolio website: [Visit Now🚀](https://github.com/shreyaydv1719/Portfolio/)
+Explore my portfolio website: [Visit Now🚀](https://shreyaydv1719.github.io/Portfolio/)
 
 ## 📌 Tech Stack
 
